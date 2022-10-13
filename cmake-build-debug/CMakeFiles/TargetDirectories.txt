@@ -1,0 +1,3 @@
+C:/Users/macha/OneDrive/Pulpit/gthub/cmake-build-debug/CMakeFiles/gthub.dir
+C:/Users/macha/OneDrive/Pulpit/gthub/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/macha/OneDrive/Pulpit/gthub/cmake-build-debug/CMakeFiles/rebuild_cache.dir
